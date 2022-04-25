@@ -1,0 +1,11 @@
+console.log(avanzar);
+console.log(eliminar);
+console.log(avanzar);
+console.log(eliminar);
+console.log(avanzar);
+console.log(eliminar);
+console.log(avanzar);
+console.log(girar a la izquierda);
+console.log(avanzar);
+
+https://codesandbox.io/s/eager-shadow-owirki?file=/src/granjera.ts
